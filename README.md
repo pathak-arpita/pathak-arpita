@@ -18,4 +18,19 @@
   <br/>
 
 
- 
+ <h3>:fire: My Stats :</h3>
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pathak-arpita&layout=compact&theme=vision-friendly-dark)
+  
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pathak-arpita&theme=dark&hide_border=true&currStreakLabel=DDDDDD)
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Arunsinghpundir&show_icons=true&locale=en" alt="ArunSinghPundir" /> -->
+
+<p>
+<a href="https://github.com/Arunsinghpundir"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pathak-arpita&theme=dracula" />
+</span></a> </p>
+ <!-- GitHub Cup's   -->
+ <p ><img src="https://github-profile-trophy.vercel.app/?username=pathak-arpita&theme=vue" alt=""/> </p>
+  
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
+

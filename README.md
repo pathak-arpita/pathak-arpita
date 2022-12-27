@@ -26,7 +26,7 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Arunsinghpundir&show_icons=true&locale=en" alt="ArunSinghPundir" /> -->
 
 <p>
-<a href="https://github.com/Arunsinghpundir"><span>
+<a href="https://github.com/pathak-arpita"><span>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pathak-arpita&theme=dracula" />
 </span></a> </p>
  <!-- GitHub Cup's   -->

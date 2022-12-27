@@ -1,4 +1,4 @@
-### Hola,I am Arpita Pathak👋
+### Hola, I am Arpita Pathak👋
  
 - 🌱 I’m currently learning Web Development.
 - 👯 I’m looking to collaborate on UI and Gaming based Projects.

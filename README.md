@@ -25,7 +25,7 @@
 - 📫 How to reach me: pathak.arpita6497@gmail.com
 
 <br>
-
+<hr>
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -42,7 +42,6 @@
   </a>
 </p>
 
-
 <!-- Connect with me -->
 <div id="user-content-toc">
   <ul align="center">
@@ -52,27 +51,37 @@
     </summary>
   </ul>
 </div>
-
 <!--icons and links-->
 <p align="center">
   <a href="https://www.linkedin.com/in/arpita-pathak-825a7a1b1/" target="_blank"><img align="center"
       src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png"
       alt="linkedin" height="50" width="50" /></a>&nbsp;&nbsp;
-  <a href="mailto:pathak.arpita6497@gmail.com?subject=Hi%20Arpita%20,%20nice%20to%20meet%20you!" target="_blank"><img align="center"
-     src="https://skillicons.dev/icons?i=gmail"
-      alt="email" height="50" width="50"/></a>&nbsp;&nbsp;
+  <a href="mailto:pathak.arpita6497@gmail.com?subject=Hi%20Arpita%20,%20nice%20to%20meet%20you!" target="_blank"><img
+      align="center" src="https://skillicons.dev/icons?i=gmail" alt="email" height="50" width="50" /></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/sele_no_phile_0/" target="_blank"><img align="center"
       src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png"
       alt="instagram" height="50" width="50" /></a>
 
 </p>
 <br />
+<hr>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h2 style="display: inline-block"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Git" /> - Git Activeness</h2>
+    </summary>
+  </ul>
+</div>
+<p><img align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=pathak-arpita&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark"
+    alt="arpita" /></p>
+<p>&nbsp;<img align="right"
+    src="https://github-readme-stats.vercel.app/api?username=pathak-arpita&show_icons=true&locale=en&theme=vision-friendly-dark"
+    alt="arpita" width="410" /></p>
+<br><br><br><br><br>
 
+<hr>
 
-<h3>:fire: My Stats :</h3>
-
-![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pathak-arpita&layout=compact&theme=vision-friendly-dark)
 
 ![GitHub
 Streak](http://github-readme-streak-stats.herokuapp.com?user=pathak-arpita&theme=dark&hide_border=true&currStreakLabel=DDDDDD)

@@ -5,16 +5,19 @@
 <br><br><br>
 
 <!-- Greeting and Typing -->
-<div align="center">
+<div align="center" magin-bottom="30">
   <h1>
     Hello, 
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
   </h1>
-  <img
+</div>
+
+<div align="right">
+  <img 
     src="https://readme-typing-svg.herokuapp.com?lines=Heyyy!+I'm+Arpita+%3C3;I'm+a+FrontEnd+Developer!!!;Welcome+to+my+profile!&font=Architects+Daughter&color=%23D62F79&center=true&width=580&height=50&size=30"
     alt="Typing SVG">
 </div>
-
+<br><br>
 <!-- GitHub Contribution Snake -->
 <p align="center">
   <img
@@ -25,10 +28,6 @@
 <!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pathak-arpita&style=plastic&color=blueviolet" alt="Profile Views" width="150" height="30" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game" />
 </p>
 
 

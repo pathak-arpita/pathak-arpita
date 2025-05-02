@@ -2,7 +2,7 @@
 	<img src = "https://komarev.com/ghpvc/?username=pathak-arpita&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src="https://raw.githubusercontent.com/pathak-arpita/pathak-arpita/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </p>
 
 ### Hola, I am Arpita Pathak👋

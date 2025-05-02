@@ -19,11 +19,11 @@
 </div>
 <br><br>
 <!-- GitHub Contribution Snake -->
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/pathak-arpita/pathak-arpita/output/github-contribution-grid-snake.svg"
-    alt="GitHub Snake Animation">
-</p>
+<div align="center">
+  <img src="https://github.com/pathak-arpita/pathak-arpita/blob/output/github-snake-dark.svg" alt="snake gif" />
+</div>
+
+
 
 <!-- Profile Views -->
 <p align="center">

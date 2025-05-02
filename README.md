@@ -1,24 +1,28 @@
-<!-- Left and Right GIFs -->
-<img align="left" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="25%">
-<img align="right" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="25%">
+<!-- Center Greeting with Typing Effect -->
+<div align="center">
+  <h2>
+    Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" /> !&nbsp;&nbsp;
+    My fellow developers 💻
+  </h2>
 
-<br><br><br>
-
-<!-- Greeting and Typing -->
-<div align="center" magin-bottom="30">
-  <h1>
-    Hello, 
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-  </h1>
-</div>
-
-<div align="right">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?lines=Heyyy!+I'm+Arpita+%3C3;I'm+a+FrontEnd+Developer!!!;Welcome+to+my+profile!&font=Architects+Daughter&color=%23D62F79&center=true&width=580&height=50&size=30"
+    src="https://readme-typing-svg.herokuapp.com?lines=I+am+Arpita+%3C3;Creative+Frontend+Developer;Passionate+about+Design+%26+Code;Crafting+Pixel+Perfect+UIs;Lifelong+Learner+%26+Problem+Solver;Turning+Ideas+Into+Interactive+Experiences;&font=Architects+Daughter&color=6C63FF&center=true&width=700&height=45&size=28" 
     alt="Typing SVG">
-</div>
-<br><br>
 
+<br><br>
+  
+ <!-- Image on the right -->
+<img width="40%" align="right" alt="Profile Image" src="https://media.giphy.com/media/3o6fJ5HDksZc45c4Lg/giphy.gif"/>
+
+<!-- Text content on the left -->
+<p align="left">
+ - 🌱 I’m a FrontEnd Developer.<br><br>
+ - 👯 I’m looking to collaborate on UI and Gaming-based Projects.<br><br>
+ - ⚡ Fun fact: I am from a Non-tech background.<br><br>
+</p>
+</div>
+<br><br><br>
+<hr>
 <!-- GitHub Contribution Snake -->
 <div align="center">
   <img src="https://github.com/pathak-arpita/pathak-arpita/blob/output/github-snake-dark.svg" alt="snake gif" />
@@ -30,12 +34,6 @@
 </p>
 <br><br>
 
-- 🌱 I’m a FrontEnd Development.
-- 👯 I’m looking to collaborate on UI and Gaming based Projects.
-- ⚡ Fun fact: I am from Non tech background.
-- 📫 How to reach me: pathak.arpita6497@gmail.com
-
-<br>
 <hr>
 
 <!--Skills-->
@@ -114,7 +112,7 @@
 <hr>
 
 
-<!-- GitHub Cup's   -->
+<!-- GitHub Cup's-->
 <div id="user-content-toc">
   <ul align="center">
     <summary>
@@ -132,5 +130,6 @@
 </p>
 
 
+<!--Footer-->
+![footer](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)

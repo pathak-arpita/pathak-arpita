@@ -1,14 +1,9 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;">
-<br>
-<p align="center">
-    <h1 align="center">✩&emsp;Arpita Pathak&emsp;✩</h1>
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There+👋;Welcome+to+my+profile!;I'm+from+India;I'm+a+WEB+DEVELOPER!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
-
-
-
 
 ### Hola, I am Arpita Pathak👋
  

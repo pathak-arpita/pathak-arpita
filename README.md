@@ -48,12 +48,28 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=git,css,figma,redis,github,html,java,js,linux,md,materialui,nextjs,postman,react,redux,tailwind,ts,vscode" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=html" title="HTML" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=css" title="CSS" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=materialui" title="Material UI" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=react" title="React" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=redux" title="Redux" />&nbsp;&nbsp;&nbsp;
+  <br><br>
+    <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=java" title="Java" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=postman" title="Postman" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=git" title="Git" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=github" title="GitHub" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=figma" title="Figma" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=redis" title="Redis" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=md" title="Markdown" />&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
+
 
 <!-- Connect with me -->
 <div id="user-content-toc">

@@ -83,17 +83,23 @@
 <hr>
 
 
-![GitHub
-Streak](http://github-readme-streak-stats.herokuapp.com?user=pathak-arpita&theme=dark&hide_border=true&currStreakLabel=DDDDDD)
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Arunsinghpundir&show_icons=true&locale=en" alt="ArunSinghPundir" /> -->
-
-<p>
-  <a href="https://github.com/pathak-arpita"><span>
-      <img align="center"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pathak-arpita&theme=dracula" />
-    </span></a>
-</p>
 <!-- GitHub Cup's   -->
-<p><img src="https://github-profile-trophy.vercel.app/?username=pathak-arpita&theme=vue" alt="" /> </p>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h2 style="display: inline-block">
+        <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60" height="40"/>- Git profile Trophies
+      </h2>
+    </summary>
+  </ul>
+</div>
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=pathak-arpita&theme=vue&margin-w=15&margin-h=15"
+    alt="Git profile Trophies" />
+</p>
+
+
 
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)

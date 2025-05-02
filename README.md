@@ -30,7 +30,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary>
-      <h2 style="display: inline-block">👨🏻‍💻 -Technologies That I Know</h2>
+      <h2 style="display: inline-block"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35px"> - Technologies That I Know</h2>
     </summary>
   </ul>
 </div>
@@ -72,12 +72,15 @@
     </summary>
   </ul>
 </div>
-<p><img align="left"
+<p>
+  <img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=pathak-arpita&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark"
-    alt="arpita" /></p>
+    alt="arpita" />
+</p>
 <p>&nbsp;<img align="right"
     src="https://github-readme-stats.vercel.app/api?username=pathak-arpita&show_icons=true&locale=en&theme=vision-friendly-dark"
-    alt="arpita" width="410" /></p>
+    alt="arpita" width="410" />
+</p>
 <br><br><br><br><br>
 
 <hr>

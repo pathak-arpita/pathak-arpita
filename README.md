@@ -37,6 +37,7 @@
 
 <br>
 <hr>
+
 <!--Skills-->
 <div id="user-content-toc">
   <ul align="center">
@@ -52,6 +53,7 @@
       src="https://skillicons.dev/icons?i=git,css,figma,redis,github,html,java,js,linux,md,materialui,nextjs,postman,react,redux,tailwind,ts,vscode" />
   </a>
 </p>
+<hr>
 
 <!-- Connect with me -->
 <div id="user-content-toc">
@@ -73,9 +75,10 @@
       src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png"
       alt="instagram" height="50" width="50" /></a>
 </p>
-
 <br />
 <hr>
+
+<!--GitHub summary-->
 <div id="user-content-toc">
   <ul align="center">
     <summary>
@@ -92,8 +95,7 @@
     src="https://github-readme-stats.vercel.app/api?username=pathak-arpita&show_icons=true&locale=en&theme=vision-friendly-dark"
     alt="arpita" width="410" />
 </p>
-<br><br><br><br><br>
-
+<br><br><br><br><br><br>
 <hr>
 
 
@@ -102,7 +104,7 @@
   <ul align="center">
     <summary>
       <h2 style="display: inline-block">
-        <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="60" height="40"/>- Git profile Trophies
+        <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="80" height="60"/>- Git profile Trophies
       </h2>
     </summary>
   </ul>

@@ -64,7 +64,6 @@
     <img src="https://skillicons.dev/icons?i=git" title="Git" />&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=github" title="GitHub" />&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=figma" title="Figma" />&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=redis" title="Redis" />&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=md" title="Markdown" />&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />&nbsp;&nbsp;&nbsp;
 </p>

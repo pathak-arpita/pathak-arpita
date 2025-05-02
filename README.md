@@ -1,46 +1,90 @@
-<p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=pathak-arpita&style=plastic&color=blueviolet" alt = "Profile Views"/>
+<img align="left"
+  src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif"
+  width="25%" style="display:inline;"><img align="right"
+  src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif"
+  width="25%" style="display:inline;">
+<br>
+<p align="center">
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"
+    width="30px"> , I am Arpita Pathak</h1>
 </p>
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There+👋;Welcome+to+my+profile!;I'm+from+India;I'm+a+WEB+DEVELOPER!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+</p>
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pathak-arpita&style=plastic&color=blueviolet" alt="Profile Views" />
 </p>
 
-### Hola, I am Arpita Pathak👋
- 
 - 🌱 I’m a FrontEnd Development.
 - 👯 I’m looking to collaborate on UI and Gaming based Projects.
 - ⚡ Fun fact: I am from Non tech background.
 - 📫 How to reach me: pathak.arpita6497@gmail.com
 
 <br>
-<h3>:book: Languages and Tools :</h3>
-  <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;&nbsp;  
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  </div>
-  <br/>
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h2 style="display: inline-block">👨🏻‍💻 -Technologies That I Know</h2>
+    </summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=git,css,figma,redis,github,html,java,js,linux,md,materialui,nextjs,postman,react,redux,tailwind,ts,vscode" />
+  </a>
+</p>
 
 
- <h3>:fire: My Stats :</h3>
+<!-- Connect with me -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h2 style="display: inline-block"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"
+          height="40" style="margin-right: 10px;"> - Connect With Me</h2>
+    </summary>
+  </ul>
+</div>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pathak-arpita&layout=compact&theme=vision-friendly-dark)
-  
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pathak-arpita&theme=dark&hide_border=true&currStreakLabel=DDDDDD)
+<!--icons and links-->
+<p align="center">
+  <a href="https://www.linkedin.com/in/arpita-pathak-825a7a1b1/" target="_blank"><img align="center"
+      src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png"
+      alt="linkedin" height="50" width="50" /></a>&nbsp;&nbsp;
+  <a href="mailto:pathak.arpita6497@gmail.com?subject=Hi%20Arpita%20,%20nice%20to%20meet%20you!" target="_blank"><img align="center"
+     src="https://skillicons.dev/icons?i=gmail"
+      alt="email" height="50" width="50"/></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/sele_no_phile_0/" target="_blank"><img align="center"
+      src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png"
+      alt="instagram" height="50" width="50" /></a>
+
+</p>
+<br />
+
+
+<h3>:fire: My Stats :</h3>
+
+![Top
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pathak-arpita&layout=compact&theme=vision-friendly-dark)
+
+![GitHub
+Streak](http://github-readme-streak-stats.herokuapp.com?user=pathak-arpita&theme=dark&hide_border=true&currStreakLabel=DDDDDD)
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Arunsinghpundir&show_icons=true&locale=en" alt="ArunSinghPundir" /> -->
 
 <p>
-<a href="https://github.com/pathak-arpita"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pathak-arpita&theme=dracula" />
-</span></a> </p>
- <!-- GitHub Cup's   -->
- <p ><img src="https://github-profile-trophy.vercel.app/?username=pathak-arpita&theme=vue" alt=""/> </p>
-  
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
+  <a href="https://github.com/pathak-arpita"><span>
+      <img align="center"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pathak-arpita&theme=dracula" />
+    </span></a>
+</p>
+<!-- GitHub Cup's   -->
+<p><img src="https://github-profile-trophy.vercel.app/?username=pathak-arpita&theme=vue" alt="" /> </p>
 
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)

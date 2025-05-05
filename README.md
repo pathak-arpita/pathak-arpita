@@ -19,7 +19,7 @@
  - 👯 I’m looking to collaborate on UI and Gaming-based Projects.<br><br>
  - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!<br><br>
  - ⚡ Fun fact: I am from a Non-tech background.<br><br>
- - 👩🏼‍💻 I’m currently learning <img alt="node" width="30" src="./NodeJs-Icon-Library-unscreen (1).gif" align="center" />
+ - 👩🏼‍💻 I’m currently learning <img alt="node" width="30" src="./gifs/NodeJs.gif" align="center" />
 </div>
 <br><br><br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">

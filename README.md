@@ -72,8 +72,8 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary>
-      <h2 style="display: inline-block"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"
-          height="40" style="margin-right: 10px;"> - Connect With Me</h2>
+      <h2 style="display: inline-block"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"
+          height="60" style="margin-right: 10px;"> - Connect With Me</h2>
     </summary>
   </ul>
 </div>

@@ -19,14 +19,13 @@
  - 👯 I’m looking to collaborate on UI and Gaming-based Projects.<br><br>
  - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!<br><br>
  - ⚡ Fun fact: I am from a Non-tech background.<br><br>
- - 👩🏼‍💻 I’m currently learning <img alt="node" width="60px" src="./" />
-</p>
+ - 👩🏼‍💻 I’m currently learning <img alt="node" width="40" src="./icons8-nodejs-64.png" align="center" />
 </div>
 <br><br><br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!-- GitHub Contribution Snake -->
 <div align="center">
-  <img src="https://github.com/pathak-arpita/pathak-arpita/blob/output/github-snake-dark.svg" alt="snake gif" style="margin-left: 38px;"/>
+  <img src="https://github.com/pathak-arpita/pathak-arpita/blob/output/github-snake-dark.svg" alt="snake gif"/>
 </div>
 <br>
 <!-- Profile Views -->

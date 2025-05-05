@@ -128,7 +128,7 @@
     src="https://github-profile-trophy.vercel.app/?username=pathak-arpita&theme=vue&margin-w=15&margin-h=15"
     alt="Git profile Trophies" />
 </p>
-
+<br><br><br>
 
 <!--Footer-->
 ![footer](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)

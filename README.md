@@ -1,8 +1,6 @@
 <!-- Center Greeting with Typing Effect -->
 <div align="center">
-  <h2>
-    Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" /> !&nbsp;&nbsp;
-    My fellow developers 💻
+  <h2 align="center">𝐇𝐞𝐥𝐥𝐨 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="64px">, 𝐟𝐞𝐥𝐥𝐨𝐰 <&nbsp;C𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="84px">/>! 
   </h2>
 
   <img 

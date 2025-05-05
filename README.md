@@ -22,7 +22,7 @@
 </p>
 </div>
 <br><br><br>
-<hr>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!-- GitHub Contribution Snake -->
 <div align="center">
   <img src="https://github.com/pathak-arpita/pathak-arpita/blob/output/github-snake-dark.svg" alt="snake gif" />
@@ -34,7 +34,7 @@
 </p>
 <br><br>
 
-<hr>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!--Skills-->
 <div id="user-content-toc">
@@ -65,7 +65,7 @@
     <img src="https://skillicons.dev/icons?i=md" title="Markdown" />&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />&nbsp;&nbsp;&nbsp;
 </p>
-<hr>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 <!-- Connect with me -->
@@ -89,7 +89,7 @@
       alt="instagram" height="50" width="50" /></a>
 </p>
 <br />
-<hr>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!--GitHub summary-->
 <div id="user-content-toc">
@@ -109,7 +109,7 @@
     alt="arpita" width="410" />
 </p>
 <br><br><br><br><br><br>
-<hr>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 <!-- GitHub Cup's-->
@@ -117,7 +117,7 @@
   <ul align="center">
     <summary>
       <h2 style="display: inline-block">
-        <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="80" height="60"/>- Git profile Trophies
+        <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="60px" height="60px">- Git profile Trophies
       </h2>
     </summary>
   </ul>

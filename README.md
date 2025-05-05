@@ -1,6 +1,6 @@
 <!-- Center Greeting with Typing Effect -->
 <div align="center">
-  <h2 align="center">𝐇𝐞𝐥𝐥𝐨 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="64px">, 𝐟𝐞𝐥𝐥𝐨𝐰 <&nbsp;C𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="84px">/>! 
+  <h2 align="center">𝐇𝐞𝐥𝐥𝐨 ,&nbsp; 𝐟𝐞𝐥𝐥𝐨𝐰 <&nbsp;C𝚘𝚍𝚎𝚛𝚜<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="84px">/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">
   </h2>
 
   <img 
@@ -15,8 +15,11 @@
 <!-- Text content on the left -->
 <p align="left">
  - 🌱 I’m a FrontEnd Developer.<br><br>
+ - 💻 I'm currently working at Nsquare Consultancy.<br><br>  
  - 👯 I’m looking to collaborate on UI and Gaming-based Projects.<br><br>
+ - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!<br><br>
  - ⚡ Fun fact: I am from a Non-tech background.<br><br>
+ - 👩🏼‍💻 I’m currently learning <img alt="node" width="22px" src="https://jumpshare.com/s/GXQOxkGnwUNtaslOrxkU" />
 </p>
 </div>
 <br><br><br>

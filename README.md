@@ -10,7 +10,7 @@
 <br><br>
   
  <!-- Image on the right -->
-<img width="40%" align="right" alt="Profile Image" src="https://media.giphy.com/media/3o6fJ5HDksZc45c4Lg/giphy.gif"/>
+<img width="40%" align="right" alt="Profile Image" src="https://i.imghippo.com/files/YaE6011.png"/>
 
 <!-- Text content on the left -->
 <p align="left">
